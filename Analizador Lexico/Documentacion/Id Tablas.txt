@@ -1,0 +1,13 @@
+
+
+	1.- Palabras reservadas
+	2.- sOpAritmeticos
+	3.- sOpRelacionales
+	4.- sOpLogicos
+	5.- sParCircular
+	6.- sParCuadrado
+	7.- sLlaves
+	8.- iIdentificador
+	9.- NumerosEnteros
+	10.- NumerosFlotantes
+	11.- NumerosNotacionCientifica

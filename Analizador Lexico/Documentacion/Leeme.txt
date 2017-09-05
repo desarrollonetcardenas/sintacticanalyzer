@@ -1,0 +1,43 @@
+Culiacán, México a Lunes 05 de Noviembre del 2007, 11:21 am
+
+Autor: 
+	Hector Pablo Cardenas Serrano #9923043-7
+
+Grado: 
+	5
+
+Grupo: 
+	1
+
+Turno: 
+	Matutino
+
+Horario: 
+	Lun-Vier 09:00 a.m.
+
+Materia: 
+	Compiladores
+
+Facultad Informatica UAS
+
+Aplicacion:
+	 Analizador Lexico
+
+
+Estado de la Aplicación: Version 1.0.0.1
+    
+
+Contenido
+------------
+	Esta aplicacion regresa el token correspondiente
+al lexema reconocido de la cadena de entrada proporcionada
+por el usuario.
+
+
+
+Historico de Versiones
+-----------------------
+
+
+1.0.0.1 
+	Primer version del programa.
